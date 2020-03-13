@@ -1,3 +1,5 @@
+GitHub pages link to project - https://hillsh9.github.io/Upstream-HTML-CSS---Ex-1/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hillsh9/Upstream-HTML-CSS---Ex-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
